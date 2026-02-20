@@ -1,0 +1,166 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Title",
+                "title_short_nav": "About Me",
+                "title_long_prefix": "A Summary",
+                "title_long": "About {{Me}}"
+            },
+            "pt-br": {
+                "title_short": "Título",
+                "title_short_nav": "Sobre Mim",
+                "title_long_prefix": "Um Resumo",
+                "title_long": "Sobre {{Mim}}"
+            }
+        }
+    },
+    "articles": [ {
+        "id": 1,
+        "component": "ArticleInlineList",
+        "locales": {},
+        "settings": {
+            "order_items_by": "id",
+            "order_items_sort": "asc",
+            "display_as_list_if_width_is_lower_than": 380
+        },
+        "items": [
+            {
+                "id": 1,
+                "label": "Salvador - BA",
+                "link": {"href": "", "tooltipString": ""},
+                "faIcon": "pi pi-map-marker"
+            },
+            {
+                "id": 2,
+                "label": "jmjoao8@hotmail.com",
+                "link": {"href": "mailto:jmjoao8@hotmail.com", "tooltipString": "email_me"},
+                "faIcon": "fa-regular fa-envelope"
+            },
+            {
+                "id": 3,
+                "label": "@CheloakaChelo",
+                "link": {"href": "https://github.com/CheloakaChelo", "tooltipString": "see_on_github"},
+                "faIcon": "fa-brands fa-github"
+            }
+        ]
+    },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "{{A little bit}} about me..."},
+                "es": {"title": "{{Um pouco}} sobre mim..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/svg/logo.svg",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>I am a backend developer focused on {{Java Spring Boot}} with academic experience, featuring solid skills in frontend development with React.js. I also have hands-on experience in production environments with MySQL and MongoDB databases.</p>\n\n<p>This background allows me to adapt to a range of project needs, whether building scalable APIs, optimizing system performance, or contributing to full-stack solutions, but I'm searching for my first job opporunity.</p>\n\n<p>I look forward to collaborating on my first opportunity [[with you!]]</p>"
+                        },
+                        "pt-br": {
+                            "text": "<p>Sou um desenvolvedor backend com foco em {{Java Spring Boot}} com experiência acadêmica, possuindo sólidas habilidades em frontend com React.js. Também tenho experiência prática em ambientes de produção com bancos de dados MySQL e MongoDB.</p>\n\n<p>Este histórico me permite adaptar-me a uma gama de necessidades de projetos, seja construindo APIs escaláveis, otimizando o desempenho de sistemas ou contribuindo para soluções full-stack, porém busco minha primeira oportunidade de trabalho na profissão.</p>\n\n<p>Espero com interesse colaborar em minha primeira oportunidade [[com você!]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{Interests}}"},
+                "pt-br": {"title": "Interesses {{Pessoais}}"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-video",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Video}} Editing",
+                            "text": "Learning to use video editors to improve my skills in video editing."
+                        },
+                        "pt-br": {
+                            "title": "Edição de {{Vídeo}}",
+                            "text": "Aprendendo a utilizar ferramentas de edição de vídeo para aprimorar minhas habilidades em edição."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-steam",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{PC}} Gaming",
+                            "text": "Enjoying PC gaming for entertainment and relaxation during my free time."
+                        },
+                        "pt-br": {
+                            "title": "{{PC}} Gaming",
+                            "text": "Utilizando o PC Gaming como forma de entretenimento e lazer nas horas vagas."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "",
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "{{Photography}}",
+                            "text": "Enhancing criativity through photo techniques."
+                        },
+                        "pt-br": {
+                            "title": "{{Fotografia}}",
+                            "text": "Ampliando a criatividade por meio de fotografias."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-music",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "Music {{Production}}",
+                            "text": "Diving into the musical universe to expand my horizons and refine my artistic skills."
+                        },
+                        "pt-br": {
+                            "title": "Produção {{Musical}}",
+                            "text": "Mergulhando no universo musical para expandir meus horizontes e lapidar minhas habilidades artísticas."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

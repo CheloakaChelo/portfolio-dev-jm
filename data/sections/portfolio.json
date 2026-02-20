@@ -1,0 +1,168 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Take a look at",
+                "title_long": "My {{Portfolio}}"
+            },
+            "pt-br": {
+                "title_short": "Portfólio",
+                "title_short_nav": "Portfólio",
+                "title_long_prefix": "Veja",
+                "title_long": "Meu {{Portfólio}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Utilities"
+                },
+                "pt-br": {
+                    "category_all": "Todo",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Utilidades"
+                }
+            },
+            "settings": {
+                "categorize_by": ["category_apps", "category_web", "category_utilities"],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/soundledgerlogo.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/CheloakaChelo/SoundLedger-API", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "youtubeVideo": "https://youtu.be/90Vu4Z_XfWU"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "SoundLedger",
+                            "text": "This is a **Computer Science Capstone Project**, a <b>RESTful API</b> built with <b>Java Spring Boot</b> with the <b>frontend</b> built with <b>React.js</b>, designed for monitoring royalty distribution in the music industry, also developed using blockchain technology.",
+                            "tags": ["API", "REST", "Java", "Spring Boot", "React.js", "Backend", "Blockchain"]
+                        },
+                        "pt-br": {
+                            "title": "SoundLedger",
+                            "text": "Uma <b>API RESTful</b> construida con <b>Java Spring Boot</b> com o <b>frontend</b> constuído em <b>React.js</b>, desenvolvida para monitoramento de distribuição de royalties na industria musical, desenvolvida também utilizando a tecnologia blockchain. Esse é um projeto acadêmico de TCC para o curso de Ciência da Computação.",
+                            "tags": ["API", "REST", "Java", "Spring Boot", "React.js", "Backend", "Blockchain"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/kodominiologo.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/CheloakaChelo/Kodominio-API", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "youtubeVideo": "https://www.youtube.com/watch?v=W7v-wxPH2ls&pp=ygUPcGlvbGEga29kb21pbmlv"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Kodominio",
+                            "text": "Bakcend of an academic project built with <b>Java Spring Boot</b>, consisting of a RESTful API for a <b>condominium incident reporting system</b>.",
+                            "tags": ["API", "REST", "Java", "Communication"]
+                        },
+                        "pt-br": {
+                            "title": "Kodominio",
+                            "text": "Backend de projeto acadêmico feito em <b>Java Spring Boot</b>, que consiste em uma API RESTful sobre um sistema de <b>cadastro de Boletim de Ocorrência para condomínios</b>.",
+                            "tags": ["API", "REST", "Java", "Comunicação"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-6.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/CheloakaChelo/PortalPiola", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PortalPiola",
+                            "text": "An academic project developed with <b>Java JSP</b>, consisting of a <b>faculty scheduling system</b> for educational institutions.",
+                            "tags": ["Java", "JSP", "Scheduling"]
+                        },
+                        "pt-br": {
+                            "title": "PortalPiola",
+                            "text": "Projeto acadêmico desenvolvido com <b>Java JSP</b>, que consiste em um sistema de <b>organização de horários de docentes em uma instituição de ensino</b>.",
+                            "tags": ["Java", "JSP", "Horários"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-1.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/CheloakaChelo/PiolaSchool-API", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PiolaSchool",
+                            "text": "An academic project backend built with <b>Java Spring Boot</b>, consisting of an <b>online course system</b>.",
+                            "tags": ["Java", "Spring Boot", "Courses"]
+                        },
+                        "pt-br": {
+                            "title": "PiolaSchool",
+                            "text": "Backend de projeto acadêmico feito em <b>Java Spring Boot</b>, que consiste em um sistema de <b>cursos online</b>.",
+                            "tags": ["Java", "Spring Boot", "Cursos"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_utilities",
+                    "img": "images/pictures/portfolio-project-logo-2.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/CheloakaChelo/email-sender", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Email Sender",
+                            "text": "A coding challenge built with <b>Java Spring Boot</b>, consisting of an email delivery microservice integrated with <b>AWS</b> SES.",
+                            "tags": ["Java", "Spring Boot", "Email"]
+                        },
+                        "pt-br": {
+                            "title": "Email Sender",
+                            "text": "Desafio de programação feito em <b>Java Spring Boot</b>, que consiste em um microsserviço de envio de emails integrado ao serviço SES da <b>AWS</b>.",
+                            "tags": ["Java", "Spring Boot", "Email"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

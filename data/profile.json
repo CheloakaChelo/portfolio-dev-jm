@@ -1,0 +1,32 @@
+{
+    "name": "João Marcelo Amorim",
+    "profilePictureUrl": "images/pictures/perfilchelo.jpeg",
+    "resumePdfUrl": "",
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+    "locales": {
+        "pt-br": {
+            "localized_name": "João Marcelo Amorim",
+            "localized_name_stylized": "<strong>João Marcelo {{Amorim}}</strong>",
+            "status_message_available_for_freelance": "Disponível para trabalhar",
+            "roles": [
+                "Desenvolvedor BackEnd Junior",
+                "Desenvolvedor Web Junior"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        },
+        "en": {
+            "localized_name": "João Marcelo Amorim",
+            "localized_name_stylized": "<strong>João Marcelo {{Amorim}}</strong>",
+            "status_message_available_for_freelance": "Available for work",
+            "roles": [
+                "Junior BackEnd Developer",
+                "Junior Web Developer"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        }
+    }
+}
