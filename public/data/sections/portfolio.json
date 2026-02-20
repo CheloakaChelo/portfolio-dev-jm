@@ -60,7 +60,7 @@
                         },
                         "pt-br": {
                             "title": "SoundLedger",
-                            "text": "Uma <b>API RESTful</b> construida con <b>Java Spring Boot</b> com o <b>frontend</b> constuído em <b>React.js</b>, desenvolvida para monitoramento de distribuição de royalties na industria musical, desenvolvida também utilizando a tecnologia blockchain. Esse é um projeto acadêmico de TCC para o curso de Ciência da Computação.",
+                            "text": "Uma <b>API RESTful</b> construida con <b>Java Spring Boot</b> com o <b>frontend</b> construído em <b>React.js</b>, desenvolvida para monitoramento de distribuição de royalties na industria musical, desenvolvida também utilizando a tecnologia blockchain. Esse é um projeto acadêmico de TCC para o curso de Ciência da Computação.",
                             "tags": ["API", "REST", "Java", "Spring Boot", "React.js", "Backend", "Blockchain"]
                         }
                     }

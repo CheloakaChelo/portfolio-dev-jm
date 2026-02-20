@@ -61,7 +61,7 @@
                     "copyToClipboardButton": true,
                     "locales": {
                         "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "pt-br": {"title": "E-mail"}
                     }
                 },
                 {
