@@ -6,7 +6,8 @@
             "locales": {
                 "en": {
                     "title": "Home"
-                }
+                },
+                "pt-br": "Página Inicial"
             }
         },
         {
@@ -15,6 +16,9 @@
             "locales": {
                 "en": {
                     "title": "History"
+                },
+                "pt-br": {
+                    "title": "Histórico"
                 }
             }
         },
@@ -24,6 +28,9 @@
             "locales": {
                 "en": {
                     "title": "Showcase"
+                },
+                "pt-br": {
+                    "title": "Habilidades e Projetos"
                 }
             }
         },
@@ -33,6 +40,9 @@
             "locales": {
                 "en": {
                     "title": "More"
+                },
+                "pt-br": {
+                    "title": "Mais"
                 }
             }
         }

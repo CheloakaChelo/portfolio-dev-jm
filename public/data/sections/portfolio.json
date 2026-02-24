@@ -8,10 +8,10 @@
                 "title_long": "My {{Portfolio}}"
             },
             "pt-br": {
-                "title_short": "Portfólio",
-                "title_short_nav": "Portfólio",
+                "title_short": "Projetos",
+                "title_short_nav": "Projetos",
                 "title_long_prefix": "Veja",
-                "title_long": "Meu {{Portfólio}}"
+                "title_long": "Meus {{Projetos}}"
             }
         }
     },

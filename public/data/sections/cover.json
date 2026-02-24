@@ -2,13 +2,13 @@
     "title": {
         "locales": {
             "en": {
-                "title_short": "Title",
+                "title_short": "About Me",
                 "title_short_nav": "About Me",
                 "title_long_prefix": "A Summary",
                 "title_long": "About {{Me}}"
             },
             "pt-br": {
-                "title_short": "Título",
+                "title_short": "Sobre Mim",
                 "title_short_nav": "Sobre Mim",
                 "title_long_prefix": "Um Resumo",
                 "title_long": "Sobre {{Mim}}"
