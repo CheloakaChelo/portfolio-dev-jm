@@ -2,13 +2,13 @@
     "title": {
         "locales": {
             "en": {
-                "title_short": "Title",
+                "title_short": "Experiences",
                 "title_short_nav": "Experiences",
                 "title_long_prefix": "About",
                 "title_long": "My {{Experiences}}"
             },
             "pt-br": {
-                "title_short": "Título",
+                "title_short": "Experiências",
                 "title_short_nav": "Experiências",
                 "title_long_prefix": "Sobre",
                 "title_long": "Minhas {{Experiências}}"
