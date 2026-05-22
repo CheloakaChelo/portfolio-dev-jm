@@ -126,19 +126,19 @@
                 {
                     "id": 4,
                     "img": "",
-                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIcon": "fa-solid fa-book",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {
-                            "title": "{{Photography}}",
-                            "text": "Enhancing criativity through photo techniques."
+                            "title": "{{Reading}}",
+                            "text": "Enhancing knowledge through reading."
                         },
                         "pt-br": {
-                            "title": "{{Fotografia}}",
-                            "text": "Ampliando a criatividade por meio de fotografias."
+                            "title": "{{Leitura}}",
+                            "text": "Ampliando o conhecimento por meio de leitura."
                         }
                     }
                 },
